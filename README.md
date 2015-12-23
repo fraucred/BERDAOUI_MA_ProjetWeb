@@ -23,6 +23,6 @@ Visualiser un article : http://i.imgur.com/LuqJRWg.png
 
 Modifier un article : http://i.imgur.com/pM66rzS.png
 
-Supprimer un article (confirmation) : http://i.imgur.com/7n0OsyC.png
+Supprimer un article (confirmation) : http://i.imgur.com/7n0OsyC.png 
 
 
