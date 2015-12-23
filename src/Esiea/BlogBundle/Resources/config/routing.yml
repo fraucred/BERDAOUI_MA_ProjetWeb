@@ -1,0 +1,33 @@
+esiea_blog_homepage:
+    path:     /
+    defaults: { _controller: EsieaBlogBundle:Article:index }
+task_success:
+    path:     /lucky/number
+    defaults: { _controller: EsieaBlogBundle:Lucky:number }
+lucky_test2:
+    path:     api/lucky/number
+    defaults: { _controller: EsieaBlogBundle:Lucky:number }
+esiea_blog_menu:
+    path:     /menu
+    defaults: { _controller: EsieaBlogBundle:Article:menu }
+esiea_blog_add:
+    path:     /add
+    defaults: { _controller: EsieaBlogBundle:Article:add }
+esiea_blog_form:
+    path:     /form
+    defaults: { _controller: EsieaBlogBundle:Article:form }
+esiea_blog_view:
+    path:     /Article/{id}
+    defaults: { _controller: EsieaBlogBundle:Article:view }
+esiea_blog_edit:
+    path:     /mod/{id}
+    defaults: { _controller: EsieaBlogBundle:Article:edit }
+esiea_blog_delete:
+    path:     /supp/{id}
+    defaults: { _controller: EsieaBlogBundle:Article:delete }
+esiea_blog_about:
+    path:     /about
+    defaults: { _controller: EsieaBlogBundle:Article:about }
+esiea_blog_contact:
+    path:     /contact
+    defaults: { _controller: EsieaBlogBundle:Article:contact }

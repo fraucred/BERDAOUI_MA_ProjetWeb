@@ -1,0 +1,21 @@
+{% extends "EsieaBlogBundle::layout.html.twig" %}
+
+{% block title %}
+  Suppression d'article - {{ parent() }}
+{% endblock %}
+
+{% block body %}
+
+  <h2>Suppression d'un article</h2>
+
+  <p>
+    Vous venez de supprimer un article.
+  </p>
+
+  <p>
+    <a href="{{ path('esiea_blog_homepage') }}" class="bouton boutonRetour">
+      Retour
+    </a>
+  </p>
+
+{% endblock %}
