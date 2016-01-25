@@ -1,6 +1,8 @@
 EsieaBlogBundle
 ===============
 
+Consignes : https://docs.google.com/presentation/d/1ocSNSVJ9Zrl4jXna_Iy4jqJsIkfZE5Smd1pF8b076r8/edit#slide=id.gcc7e26103_1_75
+
 A Symfony project created on November 23, 2015, 9:14 am.
 
 Monsieur GARNIER-CASTELLANE,
